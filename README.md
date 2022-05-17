@@ -1,3 +1,3 @@
-# Multithreading and Concurrency Prototypes
+# FuNPun App
 
 Android app with fun images and demotivators.
