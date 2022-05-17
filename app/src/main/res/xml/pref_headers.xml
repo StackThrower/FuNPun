@@ -1,0 +1,22 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+            android:id="@+id/share"
+            android:title="@string/title_invite_friend"
+            android:icon="@drawable/ic_invite"/>
+
+
+    <header
+            android:id="@+id/policy_privacy"
+            android:title="@string/title_policy_privacy"
+            android:icon="@drawable/ic_privacy_policy"/>
+
+
+    <header
+            android:fragment="funpun.org.SettingsActivity$AboutFragment"
+            android:title="@string/pref_header_about"
+            android:icon="@drawable/ic_about"/>
+
+</preference-headers>

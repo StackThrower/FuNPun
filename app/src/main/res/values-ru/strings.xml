@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuNPun</string>
+    <string name="action_settings">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="title_invite_friend">Пригласить друга</string>
+    <string name="title_policy_privacy">Политики приватности</string>
+    <string name="pref_header_about">Про нас</string>
+    <string name="pref_title_version">Версия</string>
+    <string name="content">Конетент</string>
+    <string name="add_content">Добавить контент</string>
+    <string name="add_url_to_content">Добавить ссылку на контент</string>
+    <string name="after_verification_it_will_be_available">После подтверждения контент будет добавлен в библиотеку
+    </string>
+    <string name="navigation_drawer_open">Открыть навигацию</string>
+    <string name="navigation_drawer_close">Закрыть навигацию</string>
+    <string name="privacy_policy_text">
+        <![CDATA[
+        <h3>Privacy Policy<h3/>
+        <b>1. Introduction</b><br/>
+        1. We are registered under, and process personal data in accordance with, the Ukraine data protection laws.
+        2. This Privacy Policy covers the provision of the Services only and not any other companies\' websites which you
+        may access from the Site or by using the Services.<br/>
+        3. If we change the Privacy Policy we will place notices on the Site and post the changes on this page. If you
+        do not accept any changes to the Privacy Policy please stop using the Services and close your account.<br/>
+        <b>2. Personal Information Collected</b><br/>
+        1. We will only collect personal information about you that you have given, either:<br/>
+        * when you register for the Services; or<br/>
+        * if you have previously registered your details with a company which has entered into an agreement with us.<br/>
+        2. When you register to use the Services you will be asked to provide personal information such as your name,
+        postal and e-mail address, contact telephone number, date of birth, gender and other lifestyle information.<br/>
+        <b>3. Use of personal Information</b><br/>
+        1. We may use personal information for: administrative, operational and marketing purposes and to communicate
+        with you about your use of the Services or any changes to the Services. We will only pass on your information to
+        other companies if it is necessary to perform the Services or with your prior consent.<br/>
+        2. If you breach the Terms of Use your personal information may be passed to third parties, such as our legal
+        advisors to the extent necessary to enable those third parties to resolve the matter.<br/>
+        <b>4. Other Information</b><br/>
+        1. We may also collect and disclose information to third parties in aggregate (so that no individual members are
+        identified) for statistical analysis and strategic development purposes.<br/>
+        <b>5. Cookies</b><br/>
+        1. We may use \'cookies\' to collect aggregate information. A \'Cookie\' is a small piece of information sent by our<br/>
+        web server to your web browser, which enables us to record anonymous details and allows you to move around the
+        Site faster. We may use cookies for a number of purposes, for instance to enable us to simplify the logging on
+        process, to help ensure the security and authenticity of members and to enable traffic monitoring. You can find
+        out more about the way cookies work on http://www.cookiecentral.com.<br/>
+        2. Most browsers allow you to turn off the cookie function. If you want to know how to do this, please look at
+        the help menu on your browser. However, if you turn off the cookie function your use of the Services may be
+        impaired.<br/>
+        <b>6. Overseas</b><br/>
+        1. We will only pass on information about you as an individual (as opposed to aggregate information) to third
+        parties overseas to enable us to perform services requested by you.<br/>
+        2. Owing to the global nature of the Internet, the information you provide may be transferred in transit to
+        countries outside the European Economic Area that do not have similar protections in place regarding your data
+        and its use as set out in this policy. However, we do our best to ensure that your personal information is
+        secure.<br/>
+        <b>7. Security</b><br/>
+        1. As required by under Ukraine data protection laws, we follow strict security procedures in the storage and
+        disclosure of information which you have given to us, to prevent unauthorized access. We use industry standard
+        technology to encrypt your personal information. However, the Internet is not a secure environment and we cannot
+        guarantee the security of any information which you send to us.<br/>
+        <b>8. Other websites</b><br/>
+        1. Our Site may contain links to other websites which are outside our control and are not covered by this
+        Privacy Policy. If you access other websites using the links provided, the operators of these websites may
+        collect information from you which will be used by them in accordance with their privacy practices, which may
+        differ from ours.<br/>
+        <b>9. Updating your details</b><br/>
+        1. If you wish to update any of your personal details at any time, for example if you change your e-mail
+        address, or you do not wish to receive information about a particular product or service, or if you wish to
+        close your membership account, please update your membership details as instructed on the Site and your details
+        will be updated as soon as is reasonably practicable.<br/>
+        <b>10. Contact us</b><br/>
+        If you would like to contact us with any queries or comments on our privacy practices, please
+        write to the contact address above or send an e-mail to 0x01code@gmail.com]]>
+    </string>
+</resources>

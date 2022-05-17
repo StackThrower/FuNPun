@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="funpun.org">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+
+
+    <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:usesCleartextTraffic="true"
+            android:theme="@style/AppTheme">
+
+        <uses-library
+                android:name="org.apache.http.legacy"
+                android:required="false" />
+
+        <provider
+                android:name="android.support.v4.content.FileProvider"
+                android:authorities="funpun.org.fileprovider"
+                android:exported="false"
+                android:grantUriPermissions="true">
+            <meta-data
+                    android:name="android.support.FILE_PROVIDER_PATHS"
+                    android:resource="@xml/file_paths"/>
+        </provider>
+
+
+        <meta-data
+                android:name="com.google.android.gms.ads.APPLICATION_ID"
+                android:value="ca-app-pub-3579118192425679~7722662605"/>
+
+        <meta-data
+                android:name="firebase_analytics_collection_enabled"
+                android:value="false"/>
+
+        <activity
+                android:name=".MainActivity"
+                android:label="@string/app_name"
+                android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+                android:name=".SettingsActivity">
+        </activity>
+
+        <activity android:name=".PolicyPrivacyActivity">
+        </activity>
+    </application>
+
+</manifest>

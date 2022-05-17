@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>ad_enabled</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>stat_enabled</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>enabled</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>

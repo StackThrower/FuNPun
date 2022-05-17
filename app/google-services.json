@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967389332174",
+    "firebase_url": "https://funpun.firebaseio.com",
+    "project_id": "funpun",
+    "storage_bucket": "funpun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967389332174:android:6f4bf2a7a0faa921",
+        "android_client_info": {
+          "package_name": "funpun.org"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967389332174-jq78o3jqdcfs5elq8nqdk3el6jchjn51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFkZZezlB7ETjsZlJJlkKr7Ucqy5El7uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967389332174-jq78o3jqdcfs5elq8nqdk3el6jchjn51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
